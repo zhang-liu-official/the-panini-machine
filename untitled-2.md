@@ -1,4 +1,4 @@
-# Research Proposal
+# A possible plan by Gerard Huet
 
 * Design of core microcode interpreter 'Pāṇinīyam'
 * Design of a formal 'Prakriyā' machine language
