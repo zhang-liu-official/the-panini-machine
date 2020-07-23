@@ -2,7 +2,7 @@
 
 ## Graduate Programs
 
-* [Stanford M.S. in Symbolic Systems](https://symsys.stanford.edu/graduatesmasters-program/ms-degree-requirements) + Knight-Hennessy Scholars
+* [Stanford M.S. in Symbolic Systems](https://symsys.stanford.edu/graduatesmasters-program/ms-degree-requirements)
 * [CMU Doctorate Program in Logic, Computation and Methodology](https://www.cmu.edu/dietrich/philosophy/graduate/phd/lcm-phil/index.html)
 * [Indiana University Bloomington Combined Ph.D](https://cogs.sitehost.iu.edu/graduate/degrees/combined-phd.php)
 * [Upenn Language Information Computation](https://www.cis.upenn.edu/~lc/)

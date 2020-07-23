@@ -37,6 +37,7 @@
 
 ## Antiquities
 
+* [Jain View on The Cosmos](antiquities/jain-view-on-the-cosmos.md)
 * [Indian Mathmatics](antiquities/vedic-mathmatics.md)
 
 ---
