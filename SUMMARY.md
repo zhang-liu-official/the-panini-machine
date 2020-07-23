@@ -10,7 +10,7 @@
 
 ## Sanskrit
 
-* [The Sanskrit Language](sanskrit/the-sanskrit-language.md)
+* [Some Peculiarities of Sanskrit Language](sanskrit/the-sanskrit-language.md)
 * [Reference Charts](sanskrit/reference-charts/README.md)
   * [सन्धि \(Sandhi\)](sanskrit/reference-charts/sandhi.md)
   * [Noun Declension](sanskrit/reference-charts/noun-declension.md)
@@ -21,17 +21,16 @@
 
 ## Deterministic Approach <a id="det"></a>
 
-* [The Deterministic Approach](det/the-deterministic-approach.md)
 * [Synopsis of A Machine](det/rule-based-language-system.md)
 * [Pāṇinī's Grammar and Computer Science](det/pa-inis-grammar-and-computer-science.md)
-* [Untitled](det/untitled.md)
 * [Symbolic Logic](det/symbolic-logic.md)
+* [The Deterministic Approach](det/the-deterministic-approach.md)
 
 ## Probabilistic Approach
 
-* [The Probabilistic Approach](probabilistic-approach/the-probabilistic-approach.md)
 * [Machine Learning](probabilistic-approach/machine-learning.md)
 * [Deep Learning](probabilistic-approach/deep-learning.md)
+* [The Probabilistic Approach](probabilistic-approach/the-probabilistic-approach.md)
 
 ---
 
