@@ -21,15 +21,15 @@
 
 ## Deterministic Approach <a id="det"></a>
 
-* [The Deterministic Approach](det/the-deterministic-approach/README.md)
-  * [Rule-based Language System](det/the-deterministic-approach/rule-based-language-system.md)
-  * [Symbolic Logic](det/the-deterministic-approach/symbolic-logic.md)
+* [The Deterministic Approach](det/the-deterministic-approach.md)
+* [Rule-based Language System](det/rule-based-language-system.md)
+* [Symbolic Logic](det/symbolic-logic.md)
 
 ## Probabilistic Approach
 
-* [The Probabilistic Approach](probabilistic-approach/the-probabilistic-approach/README.md)
-  * [Machine Learning](probabilistic-approach/the-probabilistic-approach/machine-learning.md)
-  * [Deep Learning](probabilistic-approach/the-probabilistic-approach/deep-learning.md)
+* [The Probabilistic Approach](probabilistic-approach/the-probabilistic-approach.md)
+* [Machine Learning](probabilistic-approach/machine-learning.md)
+* [Deep Learning](probabilistic-approach/deep-learning.md)
 
 ---
 
