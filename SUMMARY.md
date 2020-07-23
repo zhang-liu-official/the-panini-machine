@@ -39,3 +39,7 @@
 
 * [Indian Mathmatics](antiquities/vedic-mathmatics.md)
 
+---
+
+* [Resources](resources.md)
+
