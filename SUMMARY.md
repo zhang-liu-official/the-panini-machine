@@ -22,7 +22,9 @@
 ## Deterministic Approach <a id="det"></a>
 
 * [The Deterministic Approach](det/the-deterministic-approach.md)
-* [Rule-based Language System](det/rule-based-language-system.md)
+* [Synopsis of A Machine](det/rule-based-language-system.md)
+* [Pāṇinī's Grammar and Computer Science](det/pa-inis-grammar-and-computer-science.md)
+* [Untitled](det/untitled.md)
 * [Symbolic Logic](det/symbolic-logic.md)
 
 ## Probabilistic Approach
