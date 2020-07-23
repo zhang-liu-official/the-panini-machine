@@ -1,4 +1,4 @@
-# Indian Mathmatics
+# Indian Mathematics
 
 ## On Infinity
 
