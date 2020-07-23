@@ -2,7 +2,7 @@
 description: by Robert and Sally Goldman
 ---
 
-# Some Peculiarities of Sanskrit Language
+# Some Peculiarities of The Sanskrit Language
 
 ## Phonology
 
