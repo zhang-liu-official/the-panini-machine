@@ -37,6 +37,5 @@
 
 ## Antiquities
 
-* [Jainism](antiquities/jainism.md)
-* [Vedic Mathmatics](antiquities/vedic-mathmatics.md)
+* [Indian Mathmatics](antiquities/vedic-mathmatics.md)
 
