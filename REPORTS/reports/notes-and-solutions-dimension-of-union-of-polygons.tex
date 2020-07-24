@@ -1,0 +1,28 @@
+% Preamble
+\documentclass[11pt,reqno,oneside,a4paper]{article}
+\usepackage[a4paper,includeheadfoot,left=25mm,right=25mm,top=00mm,bottom=20mm,headheight=20mm]{geometry}
+\input{../texhead-main} % Standard packages, page layout, theorem environments, macros, etc
+\input{../texhead-project} % Macros specific to this project.
+\author{Zhang Liu}
+\title{Untitled}
+\renewcommand{\runningtitle}{Untitled}
+\date{\today}   % Using \today automatically updates to the document's build date
+\usepackage{mdframed}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{enumitem}
+	
+%----------------------------------
+%---------IF YOU WANT TO DEFINE YOUR OWN MACROS, YOU CAN DO SO FROM HERE ...
+
+%---------... TO HERE
+\begin{document}
+\maketitle
+\thispagestyle{fancy}
+
+\begin{abstract}
+\end{abstract}
+
+\bibliographystyle{amsplain}
+{\small\bibliography{../dbrefs}}
+\end{document}
