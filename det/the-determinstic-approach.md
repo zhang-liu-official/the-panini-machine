@@ -1,5 +1,7 @@
 # The Determinstic Approach
 
+## Representative Works
+
 Using Finite State methods: 
 
 * A functional toolkit for morphological and phonological processing, application to a Sanskrit tagger \(Huet, 2005\)
