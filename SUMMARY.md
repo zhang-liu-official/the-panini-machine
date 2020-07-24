@@ -5,8 +5,8 @@
 ## Overview <a id="overview-1"></a>
 
 * [Introduction](overview-1/introduction.md)
-* [A possible scheme by Gerard Huet](overview-1/untitled-2.md)
 * [Literature Review](overview-1/literature-review.md)
+* [A possible scheme by Gerard Huet](overview-1/untitled-2.md)
 * [Academic Roadmap](overview-1/untitled-3.md)
 
 ## Sanskrit
