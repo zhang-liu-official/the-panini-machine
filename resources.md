@@ -8,7 +8,7 @@
 * [UPenn Language Information Computation](https://www.cis.upenn.edu/~lc/)
 * [University of Amsterdam M.S. in Logic](https://www.uva.nl/en/programmes/masters/logic/logic.html?cb)
 
-## Leading People and Institutions
+## Leading Researchers and Institutions
 
 * [INRIA Gerard Huet](https://scholar.google.fr/citations?user=0kqdfWEAAAAJ&hl=en)
 * [NUS Frank Stephan](https://www.comp.nus.edu.sg/~fstephan/mathlogicug.html) fstephan@comp.nus.edu.sg
@@ -36,4 +36,12 @@
 ## Books
 
 * [De Gruyter Series](https://www.degruyter.com/view/serial/OML-B?contents=toc-59654)
+
+## Websites
+
+* [Transliteration to Devanagari Converter ](http://www.learnsanskrit.org/tools/sanscript)
+* [Sanskrit Virtual Keyboard](https://www.lexilogos.com/keyboard/sanskrit_latin.htm)
+* [The Sanskrit Heritage Site](https://sanskrit.inria.fr/)
+* [Sanskrit Library](https://sanskritlibrary.org/)
+* [SanskritReader](http://www.sanskritreader.de/)
 

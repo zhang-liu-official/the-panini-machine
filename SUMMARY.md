@@ -6,6 +6,7 @@
 
 * [Introduction](overview-1/introduction.md)
 * [A possible scheme by Gerard Huet](overview-1/untitled-2.md)
+* [Literature Review](overview-1/literature-review.md)
 * [Academic Roadmap](overview-1/untitled-3.md)
 
 ## Sanskrit
@@ -19,6 +20,7 @@
 
 ## Deterministic Approach <a id="det"></a>
 
+* [The Determinstic Approach](det/the-determinstic-approach.md)
 * [Pāṇinī's Grammar and Computer Science](det/pa-inis-grammar-and-computer-science.md)
 * [Synopsis of A Machine](det/rule-based-language-system/README.md)
   * [Compiler and Interpreter Project \(OCaml\)](det/rule-based-language-system/compiler-and-interpreter-project-ocaml.md)
@@ -26,6 +28,7 @@
 
 ## Probabilistic Approach
 
+* [The Probabilistic Approach](probabilistic-approach/the-probabilistic-approach.md)
 * [Machine Learning](probabilistic-approach/machine-learning.md)
 * [Deep Learning](probabilistic-approach/deep-learning.md)
 

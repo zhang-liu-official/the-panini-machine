@@ -7,8 +7,8 @@ Semester 1:
 * The Probabilistic Approach: Machine Learning
 * The Deterministic Approach: Functional Programming and Proving
 * The Language itself: Advanced Sanskrit
-* Math: Real Analysis
-* Math: Modern Algebra
+* Math: Analysis
+* Math: Algebra
 
 Winter: 
 

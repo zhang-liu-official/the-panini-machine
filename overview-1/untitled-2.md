@@ -13,5 +13,7 @@ This tentative modular research program sketches a complete chain of production,
 
 {% file src="../.gitbook/assets/panini\_machine.pdf" caption="\(Huet, 2019\)" %}
 
+{% embed url="https://www.youtube.com/watch?v=bxkp\_fuZkks" %}
+
 
 
