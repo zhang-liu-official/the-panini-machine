@@ -29,5 +29,5 @@ description: >-
 >
 > Kāvyadarśa of Daṇḍin
 
-
+![](.gitbook/assets/palitans.jpg)
 
