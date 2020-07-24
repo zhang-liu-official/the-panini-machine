@@ -11,7 +11,7 @@
 ## Sanskrit
 
 * [Some Peculiarities of The Sanskrit Language](sanskrit/the-sanskrit-language.md)
-* [Reference Charts](sanskrit/reference-charts/README.md)
+* [Main Reference Charts](sanskrit/reference-charts/README.md)
   * [सन्धि \(Sandhi\)](sanskrit/reference-charts/sandhi.md)
   * [Noun Declension](sanskrit/reference-charts/noun-declension.md)
   * [Verb Conjugation](sanskrit/reference-charts/verb-conjugation.md)
@@ -21,15 +21,13 @@
 
 * [Pāṇinī's Grammar and Computer Science](det/pa-inis-grammar-and-computer-science.md)
 * [Synopsis of A Machine](det/rule-based-language-system/README.md)
-  * [Compiler and Interpreter \(OCaml\)](det/rule-based-language-system/compiler-and-interpreter-ocaml.md)
+  * [Compiler and Interpreter Project \(OCaml\)](det/rule-based-language-system/compiler-and-interpreter-project-ocaml.md)
 * [Symbolic Logic](det/symbolic-logic.md)
-* [The Deterministic Approach](det/the-deterministic-approach.md)
 
 ## Probabilistic Approach
 
 * [Machine Learning](probabilistic-approach/machine-learning.md)
 * [Deep Learning](probabilistic-approach/deep-learning.md)
-* [The Probabilistic Approach](probabilistic-approach/the-probabilistic-approach.md)
 
 ---
 

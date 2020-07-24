@@ -1,8 +1,10 @@
 # Introduction
 
+![](../.gitbook/assets/panini-702x336.jpg)
+
 ## Overview
 
-This site will serve as the documentation of a long-term personal project. In this project, I will attempt to use mathematical and computational methods to implement the Sanskrit grammatical system. The Sanskrit language was first formalized by the Indian linguist Pāṇini \(पाणिनि\) \(and hence the name of this project\). My plan is to study the mechanics of Sanskrit and at the same time the relevant technical methods which I have broadly classified into the probabilistic approach and the deterministic approach.
+This site will serve as the documentation of a long-term personal project. In this project, I will attempt to use mathematical and computational methods to implement the Sanskrit linguistic system. The Sanskrit language was first formalized by the Indian linguist Pāṇini \(पाणिनि\) \(and hence the name of this project\). My plan is to study the mechanics of Sanskrit and at the same time the relevant technical methods which I have broadly classified into the probabilistic approach and the deterministic approach.
 
 I think of this project as a convergence of my interests. If we consider each of the disciplines a wooden plank stacked on top of each other, then the current project is my ongoing experiment to locate the "center of gravity" where a balanced state can be achieved.
 
