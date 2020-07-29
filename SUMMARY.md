@@ -8,7 +8,6 @@
 * [Literature Review](overview-1/literature-review.md)
 * [A possible scheme by Dr Gerard Huet](overview-1/untitled-2.md)
 * [Academic Roadmap](overview-1/untitled-3.md)
-* [Some Questions](overview-1/some-questions.md)
 
 ## Sanskrit
 
