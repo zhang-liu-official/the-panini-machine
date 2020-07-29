@@ -1,4 +1,4 @@
-# Resources
+# General Resources
 
 ## Graduate Programs
 
@@ -8,17 +8,17 @@
 * [UPenn Language Information Computation](https://www.cis.upenn.edu/~lc/)
 * [University of Amsterdam M.S. in Logic](https://www.uva.nl/en/programmes/masters/logic/logic.html?cb)
 
-## Leading Researchers and Institutions
+## Researchers and Institutions
 
 * [INRIA Gerard Huet](https://scholar.google.fr/citations?user=0kqdfWEAAAAJ&hl=en)
 * [NUS Frank Stephan](https://www.comp.nus.edu.sg/~fstephan/mathlogicug.html) fstephan@comp.nus.edu.sg
 * NUS Sanjay Jain
 * U Amsterdam Institute for Logic, Language and Computation
-* [Associateion of Symbolic Logic](http://aslonline.org/about-the-asl/)
+* [Association of Symbolic Logic](http://aslonline.org/about-the-asl/)
 * [Jouko Väänänen](http://www.math.helsinki.fi/logic/people/jouko.vaananen/)
 * [Logic and set theory around the world](http://settheory.net/world)
 * Amba Kulkarni
-
+* 
 ## Journals and Conferences
 
 * [International Conference on Automated Deduction](http://cade-28.info/) Submission deadline: February 2021
@@ -35,13 +35,19 @@
 
 ## Books
 
-* [De Gruyter Series](https://www.degruyter.com/view/serial/OML-B?contents=toc-59654)
+* [De Gruyter Logic Series](https://www.degruyter.com/view/serial/OML-B?contents=toc-59654) 
+* Mathematical Linguistics by András Kornai
 
-## Websites
+## Tools
 
 * [Transliteration to Devanagari Converter ](http://www.learnsanskrit.org/tools/sanscript)
 * [Sanskrit Virtual Keyboard](https://www.lexilogos.com/keyboard/sanskrit_latin.htm)
 * [The Sanskrit Heritage Site](https://sanskrit.inria.fr/)
 * [Sanskrit Library](https://sanskritlibrary.org/)
 * [SanskritReader](http://www.sanskritreader.de/)
+
+## Tutorials
+
+* [Visual Probability](https://seeing-theory.brown.edu/index.html#firstPage)
+* [Probability and Structure in NLP](http://www.cs.cmu.edu/~nasmith/psnlp/)
 

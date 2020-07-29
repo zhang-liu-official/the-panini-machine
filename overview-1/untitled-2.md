@@ -1,4 +1,4 @@
-# A possible scheme by Gerard Huet
+# A possible scheme by Dr Gerard Huet
 
 Our scripts are actually close to the prakriyā explanations of the grammatical tradition - condensed invocations of the sūtras such as ḍukṛñ-ṇvul-su. Organizing them systematically in hierarchical manner would lead to some kind of abstract syntax of a somewhat esoteric programming language. It would be an interesting research program to exactly define this formal language, and use it as the conceptual basis for a software implementation of Pāṇini’s machine, with the following ingredients.
 

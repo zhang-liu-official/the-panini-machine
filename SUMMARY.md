@@ -6,8 +6,9 @@
 
 * [Introduction](overview-1/introduction.md)
 * [Literature Review](overview-1/literature-review.md)
-* [A possible scheme by Gerard Huet](overview-1/untitled-2.md)
+* [A possible scheme by Dr Gerard Huet](overview-1/untitled-2.md)
 * [Academic Roadmap](overview-1/untitled-3.md)
+* [Some Questions](overview-1/some-questions.md)
 
 ## Sanskrit
 
@@ -24,13 +25,11 @@
 * [Pāṇinī's Grammar and Computer Science](det/pa-inis-grammar-and-computer-science.md)
 * [Synopsis of A Machine](det/rule-based-language-system/README.md)
   * [Compiler and Interpreter Project \(OCaml\)](det/rule-based-language-system/compiler-and-interpreter-project-ocaml.md)
-* [Symbolic Logic](det/symbolic-logic.md)
 
 ## Probabilistic Approach
 
 * [The Probabilistic Approach](probabilistic-approach/the-probabilistic-approach.md)
-* [Machine Learning](probabilistic-approach/machine-learning.md)
-* [Deep Learning](probabilistic-approach/deep-learning.md)
+* [Probabilistic Linguistics](probabilistic-approach/machine-learning.md)
 
 ---
 
@@ -41,7 +40,11 @@
 * [Jain View on The Cosmos](antiquities/jain-view-on-the-cosmos.md)
 * [Indian Mathematics](antiquities/vedic-mathmatics.md)
 
+## Mathematical Linguistics
+
+* [Mathematical Linguistics](mathematical-linguistics/mathematical-linguistics.md)
+
 ---
 
-* [Resources](resources.md)
+* [General Resources](resources.md)
 
