@@ -8,6 +8,7 @@
 * [Literature Review](overview-1/literature-review.md)
 * [A possible scheme by Dr Gerard Huet](overview-1/untitled-2.md)
 * [Academic Roadmap](overview-1/untitled-3.md)
+* [Untitled](overview-1/untitled.md)
 
 ## Sanskrit
 
@@ -42,6 +43,7 @@
 ## Mathematical Linguistics
 
 * [Mathematical Linguistics](mathematical-linguistics/mathematical-linguistics.md)
+* [Combinatorics on Words](mathematical-linguistics/combinatorics-on-words.md)
 
 ---
 

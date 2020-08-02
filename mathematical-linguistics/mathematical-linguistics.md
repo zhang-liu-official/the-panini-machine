@@ -7,7 +7,7 @@
 * [nLab ](https://ncatlab.org/nlab/show/HomePage)
 * [nForum ](https://nforum.ncatlab.org/discussions/?CategoryID=0)
 * [n-Category Cafe](https://golem.ph.utexas.edu/category/)
-* [Caltech course on Mathematical and Computational Linguistics](http://www.its.caltech.edu/~matilde/CS101Winter2015.html)
+* [Caltech course on Mathematical and Computational Linguistics](http://www.its.caltech.edu/~matilde/CS101Winter2015.html) and [2019](http://www.its.caltech.edu/~matilde/MAT1509HS2019.html)
 
 
 
