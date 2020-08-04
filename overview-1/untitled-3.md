@@ -4,11 +4,11 @@ The academic preparation useful for the implementation of a Pāṇinī machine.
 
 Semester 1:
 
-* The Probabilistic Approach: Machine Learning
-* The Deterministic Approach: Functional Programming and Proving
+* Functional Programming and Proving
 * The Language itself: Advanced Sanskrit
-* Math: Analysis
-* Math: Algebra
+* Math: Introduction to Real Analysis
+* Math: Introduction to Modern Algebra
+* Additional topics in Algebra: Algebra I \(S\)
 
 Winter: 
 
