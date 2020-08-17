@@ -21,7 +21,7 @@
 * [Gregory M. Kobele](https://home.uni-leipzig.de/~gkobele/)
 * [Matilde Marcolli](http://www.its.caltech.edu/~matilde/)
 * [ Shay Cohen](http://homepages.inf.ed.ac.uk/scohen/)
-* 
+
 ## Journals and Conferences
 
 * [International Conference on Automated Deduction](http://cade-28.info/) Submission deadline: February 2021
