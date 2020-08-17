@@ -39,6 +39,7 @@
 
 * [Jain View on The Cosmos](antiquities/jain-view-on-the-cosmos.md)
 * [Indian Mathematics](antiquities/vedic-mathmatics.md)
+* [Recursive Structures in Classical Indian Thought](antiquities/recursive-structures-in-classical-indian-thought.md)
 
 ## Mathematical Linguistics
 
