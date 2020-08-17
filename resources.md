@@ -20,7 +20,7 @@
 * Amba Kulkarni
 * [Gregory M. Kobele](https://home.uni-leipzig.de/~gkobele/)
 * [Matilde Marcolli](http://www.its.caltech.edu/~matilde/)
-* [ Shay Cohen](http://homepages.inf.ed.ac.uk/scohen/)
+* [Shay Cohen](http://homepages.inf.ed.ac.uk/scohen/)
 
 ## Journals and Conferences
 
