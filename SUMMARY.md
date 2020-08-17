@@ -7,8 +7,7 @@
 * [Introduction](overview-1/introduction.md)
 * [Literature Review](overview-1/literature-review.md)
 * [A possible scheme by Dr Gerard Huet](overview-1/untitled-2.md)
-* [Academic Roadmap](overview-1/untitled-3.md)
-* [Untitled](overview-1/untitled.md)
+* [Plans](overview-1/untitled-3.md)
 
 ## Sanskrit
 

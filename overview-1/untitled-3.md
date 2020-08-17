@@ -1,4 +1,4 @@
-# Academic Roadmap
+# Plans
 
 The academic preparation useful for the implementation of a Pāṇinī machine.
 
@@ -21,6 +21,15 @@ Semester 2:
 * Math: Mathematical Logic
 * Math: Foundations of Applied Math
 * Specialize: Research Module
+
+1. understanding the Sanskrit syntax
+2. formalization
+3. modeling
+4. implementation
+
+toy problem: using the Coq Proof Assistant to verify the methods in Vedic Mathematics.
+
+
 
 
 
