@@ -17,6 +17,7 @@
   * [Noun Declension](sanskrit/reference-charts/noun-declension.md)
   * [Verb Conjugation](sanskrit/reference-charts/verb-conjugation.md)
 * [Reading 1: Shakuntala](sanskrit/reading.md)
+* [Translations for excerpts from The Mahābhārata](sanskrit/translations-for-excerpts-from-the-mahabharata.md)
 
 ## Deterministic Approach <a id="det"></a>
 
@@ -24,11 +25,13 @@
 * [Pāṇinī's Grammar and Computer Science](det/pa-inis-grammar-and-computer-science.md)
 * [Synopsis of A Machine](det/rule-based-language-system/README.md)
   * [Compiler and Interpreter Project \(OCaml\)](det/rule-based-language-system/compiler-and-interpreter-project-ocaml.md)
+* [Theory of Computation](det/theory-of-computation.md)
 
 ## Probabilistic Approach
 
 * [The Probabilistic Approach](probabilistic-approach/the-probabilistic-approach.md)
 * [Probabilistic Linguistics](probabilistic-approach/machine-learning.md)
+* [Topological Data Analysis](probabilistic-approach/topological-data-analysis.md)
 
 ---
 

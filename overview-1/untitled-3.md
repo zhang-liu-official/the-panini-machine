@@ -1,6 +1,10 @@
+---
+description: The academic preparation useful for the implementation of a Pāṇinī machine.
+---
+
 # Plans
 
-The academic preparation useful for the implementation of a Pāṇinī machine.
+**Junior Year**
 
 Semester 1:
 
@@ -13,21 +17,39 @@ Semester 1:
 Winter: 
 
 * Implementation
+* toy problem: using the Coq Proof Assistant to verify the methods in Vedic Mathematics
+* Read Theory of Computation and Logic books
 
 Semester 2:
 
-* The Probabilistic Approach: Deep Learning and Computer Vision
 * Implementation: Introductory Data Structures
 * Math: Mathematical Logic
-* Math: Foundations of Applied Math
-* Specialize: Research Module
+* \(Language: Arabic\)
+* Specialize: Research Module on Topological Data Analysis
+* Specialize: Research Module on Infinite Group Theory
 
 1. understanding the Sanskrit syntax
 2. formalization
 3. modeling
 4. implementation
 
-toy problem: using the Coq Proof Assistant to verify the methods in Vedic Mathematics.
+Summer: Research/summer school related to Logic/Computation/Language 
+
+**Senior Year**
+
+Semester 1:
+
+* The Probabilistic Approach: Machine Learning
+* The Probabilistic Approach: Probability
+* Graduate module: Logic and Foundations I
+* Capstone
+
+Semester 2:
+
+* Graduate module: Logic and Foundations II
+* Capstone
+
+
 
 
 

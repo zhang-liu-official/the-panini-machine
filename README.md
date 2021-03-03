@@ -29,5 +29,5 @@ description: >-
 >
 > Kāvyadarśa of Daṇḍin
 
-![](.gitbook/assets/palitans.jpg)
+![Taken on the Shatrunjaya Hill, during my &quot;pilgrimage&quot; to Palitana, Gujarat](.gitbook/assets/palitans.jpg)
 

@@ -1,6 +1,6 @@
 # Reading 1: Shakuntala
 
-{% file src="../.gitbook/assets/reading02.mp3" %}
+{% file src="../.gitbook/assets/reading02.mp3" caption="Reading \(Audio by Deshpande\)" %}
 
 ![](../.gitbook/assets/s1.jpg)
 
